@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhismnarayan
-- 👀 I’m interested in finace software  
+- 👀 I’m interested in finance software  
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on python application
 - 📫 How to reach me on twitter @bhismnarayan
